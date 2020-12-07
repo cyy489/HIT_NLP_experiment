@@ -22,9 +22,15 @@ Python 3.6.8 64-bit
 numpy 1.19.1
 
 注：以上为陈啸同学内容
+
 余羿辰同学实验内容在余羿辰NLP实验一文件夹中
+
 编码统一使用GBK
+
 文件说明
+
 1.cpp、2.cpp、3.cpp都是最终产生dic.txt的系列处理程序
+
 4.cpp、5.cpp、6.cpp分别产生seg_FMM.txt、seg_BMM.txt、score.txt
+
 gcc version 9.2.0
